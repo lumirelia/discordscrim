@@ -1,6 +1,7 @@
-if you wish to run this with your own bot, remove in line 13-14
+replace TOKEN in .env with your own discord bot's token
 
-load_dotenv()
-TOKEN = os.getenv('DISCORD_TOKEN')
+heroes are case sensitive, all small letters
+if some doesn't work like cai yan, try without space
 
-replace TOKEN in very last line which is bot.run(TOKEN) with your discord app's own token
+instead of prince of lanling, just type lanling
+instead of princess frost, just type frost
